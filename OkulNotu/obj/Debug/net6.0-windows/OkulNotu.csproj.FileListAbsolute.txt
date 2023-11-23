@@ -1,0 +1,16 @@
+C:\Users\Gaming\Desktop\BUSNİS\OkulNotu\bin\Debug\net6.0-windows\OkulNotu.exe
+C:\Users\Gaming\Desktop\BUSNİS\OkulNotu\bin\Debug\net6.0-windows\OkulNotu.deps.json
+C:\Users\Gaming\Desktop\BUSNİS\OkulNotu\bin\Debug\net6.0-windows\OkulNotu.runtimeconfig.json
+C:\Users\Gaming\Desktop\BUSNİS\OkulNotu\bin\Debug\net6.0-windows\OkulNotu.dll
+C:\Users\Gaming\Desktop\BUSNİS\OkulNotu\bin\Debug\net6.0-windows\OkulNotu.pdb
+C:\Users\Gaming\Desktop\BUSNİS\OkulNotu\obj\Debug\net6.0-windows\OkulNotu.Form1.resources
+C:\Users\Gaming\Desktop\BUSNİS\OkulNotu\obj\Debug\net6.0-windows\OkulNotu.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\BUSNİS\OkulNotu\obj\Debug\net6.0-windows\OkulNotu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\BUSNİS\OkulNotu\obj\Debug\net6.0-windows\OkulNotu.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\OkulNotu\obj\Debug\net6.0-windows\OkulNotu.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\BUSNİS\OkulNotu\obj\Debug\net6.0-windows\OkulNotu.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\OkulNotu\obj\Debug\net6.0-windows\OkulNotu.dll
+C:\Users\Gaming\Desktop\BUSNİS\OkulNotu\obj\Debug\net6.0-windows\refint\OkulNotu.dll
+C:\Users\Gaming\Desktop\BUSNİS\OkulNotu\obj\Debug\net6.0-windows\OkulNotu.pdb
+C:\Users\Gaming\Desktop\BUSNİS\OkulNotu\obj\Debug\net6.0-windows\OkulNotu.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\BUSNİS\OkulNotu\obj\Debug\net6.0-windows\ref\OkulNotu.dll

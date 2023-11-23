@@ -1,0 +1,16 @@
+C:\Users\Gaming\Desktop\BUSNİS\Toplama-Çarpma\bin\Debug\net6.0-windows\Toplama-Çarpma.exe
+C:\Users\Gaming\Desktop\BUSNİS\Toplama-Çarpma\bin\Debug\net6.0-windows\Toplama-Çarpma.deps.json
+C:\Users\Gaming\Desktop\BUSNİS\Toplama-Çarpma\bin\Debug\net6.0-windows\Toplama-Çarpma.runtimeconfig.json
+C:\Users\Gaming\Desktop\BUSNİS\Toplama-Çarpma\bin\Debug\net6.0-windows\Toplama-Çarpma.dll
+C:\Users\Gaming\Desktop\BUSNİS\Toplama-Çarpma\bin\Debug\net6.0-windows\Toplama-Çarpma.pdb
+C:\Users\Gaming\Desktop\BUSNİS\Toplama-Çarpma\obj\Debug\net6.0-windows\Toplama_Çarpma.Form1.resources
+C:\Users\Gaming\Desktop\BUSNİS\Toplama-Çarpma\obj\Debug\net6.0-windows\Toplama-Çarpma.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\BUSNİS\Toplama-Çarpma\obj\Debug\net6.0-windows\Toplama-Çarpma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\BUSNİS\Toplama-Çarpma\obj\Debug\net6.0-windows\Toplama-Çarpma.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\Toplama-Çarpma\obj\Debug\net6.0-windows\Toplama-Çarpma.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\BUSNİS\Toplama-Çarpma\obj\Debug\net6.0-windows\Toplama-Çarpma.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\Toplama-Çarpma\obj\Debug\net6.0-windows\Toplama-Çarpma.dll
+C:\Users\Gaming\Desktop\BUSNİS\Toplama-Çarpma\obj\Debug\net6.0-windows\refint\Toplama-Çarpma.dll
+C:\Users\Gaming\Desktop\BUSNİS\Toplama-Çarpma\obj\Debug\net6.0-windows\Toplama-Çarpma.pdb
+C:\Users\Gaming\Desktop\BUSNİS\Toplama-Çarpma\obj\Debug\net6.0-windows\Toplama-Çarpma.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\BUSNİS\Toplama-Çarpma\obj\Debug\net6.0-windows\ref\Toplama-Çarpma.dll
