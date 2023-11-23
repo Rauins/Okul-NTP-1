@@ -1,0 +1,16 @@
+C:\Users\Gaming\Desktop\BUSNİS\Belgeİşlemi\bin\Debug\net6.0-windows\Belgeİşlemi.exe
+C:\Users\Gaming\Desktop\BUSNİS\Belgeİşlemi\bin\Debug\net6.0-windows\Belgeİşlemi.deps.json
+C:\Users\Gaming\Desktop\BUSNİS\Belgeİşlemi\bin\Debug\net6.0-windows\Belgeİşlemi.runtimeconfig.json
+C:\Users\Gaming\Desktop\BUSNİS\Belgeİşlemi\bin\Debug\net6.0-windows\Belgeİşlemi.dll
+C:\Users\Gaming\Desktop\BUSNİS\Belgeİşlemi\bin\Debug\net6.0-windows\Belgeİşlemi.pdb
+C:\Users\Gaming\Desktop\BUSNİS\Belgeİşlemi\obj\Debug\net6.0-windows\Belgeİşlemi.Form1.resources
+C:\Users\Gaming\Desktop\BUSNİS\Belgeİşlemi\obj\Debug\net6.0-windows\Belgeİşlemi.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\BUSNİS\Belgeİşlemi\obj\Debug\net6.0-windows\Belgeİşlemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\BUSNİS\Belgeİşlemi\obj\Debug\net6.0-windows\Belgeİşlemi.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\Belgeİşlemi\obj\Debug\net6.0-windows\Belgeİşlemi.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\BUSNİS\Belgeİşlemi\obj\Debug\net6.0-windows\Belgeİşlemi.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\Belgeİşlemi\obj\Debug\net6.0-windows\Belgeİşlemi.dll
+C:\Users\Gaming\Desktop\BUSNİS\Belgeİşlemi\obj\Debug\net6.0-windows\refint\Belgeİşlemi.dll
+C:\Users\Gaming\Desktop\BUSNİS\Belgeİşlemi\obj\Debug\net6.0-windows\Belgeİşlemi.pdb
+C:\Users\Gaming\Desktop\BUSNİS\Belgeİşlemi\obj\Debug\net6.0-windows\Belgeİşlemi.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\BUSNİS\Belgeİşlemi\obj\Debug\net6.0-windows\ref\Belgeİşlemi.dll
