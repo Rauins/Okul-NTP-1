@@ -1,0 +1,17 @@
+C:\Users\Gaming\Desktop\BUSNİS\ResimGalerisi\bin\Debug\net6.0-windows\ResimGalerisi.exe
+C:\Users\Gaming\Desktop\BUSNİS\ResimGalerisi\bin\Debug\net6.0-windows\ResimGalerisi.deps.json
+C:\Users\Gaming\Desktop\BUSNİS\ResimGalerisi\bin\Debug\net6.0-windows\ResimGalerisi.runtimeconfig.json
+C:\Users\Gaming\Desktop\BUSNİS\ResimGalerisi\bin\Debug\net6.0-windows\ResimGalerisi.dll
+C:\Users\Gaming\Desktop\BUSNİS\ResimGalerisi\bin\Debug\net6.0-windows\ResimGalerisi.pdb
+C:\Users\Gaming\Desktop\BUSNİS\ResimGalerisi\obj\Debug\net6.0-windows\ResimGalerisi.Form1.resources
+C:\Users\Gaming\Desktop\BUSNİS\ResimGalerisi\obj\Debug\net6.0-windows\ResimGalerisi.Properties.Resources.resources
+C:\Users\Gaming\Desktop\BUSNİS\ResimGalerisi\obj\Debug\net6.0-windows\ResimGalerisi.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\BUSNİS\ResimGalerisi\obj\Debug\net6.0-windows\ResimGalerisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\BUSNİS\ResimGalerisi\obj\Debug\net6.0-windows\ResimGalerisi.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\ResimGalerisi\obj\Debug\net6.0-windows\ResimGalerisi.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\BUSNİS\ResimGalerisi\obj\Debug\net6.0-windows\ResimGalerisi.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\ResimGalerisi\obj\Debug\net6.0-windows\ResimGalerisi.dll
+C:\Users\Gaming\Desktop\BUSNİS\ResimGalerisi\obj\Debug\net6.0-windows\refint\ResimGalerisi.dll
+C:\Users\Gaming\Desktop\BUSNİS\ResimGalerisi\obj\Debug\net6.0-windows\ResimGalerisi.pdb
+C:\Users\Gaming\Desktop\BUSNİS\ResimGalerisi\obj\Debug\net6.0-windows\ResimGalerisi.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\BUSNİS\ResimGalerisi\obj\Debug\net6.0-windows\ref\ResimGalerisi.dll
