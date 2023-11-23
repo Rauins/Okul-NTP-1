@@ -1,0 +1,16 @@
+C:\Users\Gaming\Desktop\BUSNİS\HaftaBilgisi\bin\Debug\net6.0-windows\HaftaBilgisi.exe
+C:\Users\Gaming\Desktop\BUSNİS\HaftaBilgisi\bin\Debug\net6.0-windows\HaftaBilgisi.deps.json
+C:\Users\Gaming\Desktop\BUSNİS\HaftaBilgisi\bin\Debug\net6.0-windows\HaftaBilgisi.runtimeconfig.json
+C:\Users\Gaming\Desktop\BUSNİS\HaftaBilgisi\bin\Debug\net6.0-windows\HaftaBilgisi.dll
+C:\Users\Gaming\Desktop\BUSNİS\HaftaBilgisi\bin\Debug\net6.0-windows\HaftaBilgisi.pdb
+C:\Users\Gaming\Desktop\BUSNİS\HaftaBilgisi\obj\Debug\net6.0-windows\HaftaBilgisi.Form1.resources
+C:\Users\Gaming\Desktop\BUSNİS\HaftaBilgisi\obj\Debug\net6.0-windows\HaftaBilgisi.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\BUSNİS\HaftaBilgisi\obj\Debug\net6.0-windows\HaftaBilgisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\BUSNİS\HaftaBilgisi\obj\Debug\net6.0-windows\HaftaBilgisi.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\HaftaBilgisi\obj\Debug\net6.0-windows\HaftaBilgisi.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\BUSNİS\HaftaBilgisi\obj\Debug\net6.0-windows\HaftaBilgisi.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\HaftaBilgisi\obj\Debug\net6.0-windows\HaftaBilgisi.dll
+C:\Users\Gaming\Desktop\BUSNİS\HaftaBilgisi\obj\Debug\net6.0-windows\refint\HaftaBilgisi.dll
+C:\Users\Gaming\Desktop\BUSNİS\HaftaBilgisi\obj\Debug\net6.0-windows\HaftaBilgisi.pdb
+C:\Users\Gaming\Desktop\BUSNİS\HaftaBilgisi\obj\Debug\net6.0-windows\HaftaBilgisi.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\BUSNİS\HaftaBilgisi\obj\Debug\net6.0-windows\ref\HaftaBilgisi.dll
