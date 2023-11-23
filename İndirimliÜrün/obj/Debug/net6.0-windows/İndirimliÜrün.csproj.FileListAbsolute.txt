@@ -1,0 +1,16 @@
+C:\Users\Gaming\Desktop\BUSNİS\İndirimliÜrün\bin\Debug\net6.0-windows\İndirimliÜrün.exe
+C:\Users\Gaming\Desktop\BUSNİS\İndirimliÜrün\bin\Debug\net6.0-windows\İndirimliÜrün.deps.json
+C:\Users\Gaming\Desktop\BUSNİS\İndirimliÜrün\bin\Debug\net6.0-windows\İndirimliÜrün.runtimeconfig.json
+C:\Users\Gaming\Desktop\BUSNİS\İndirimliÜrün\bin\Debug\net6.0-windows\İndirimliÜrün.dll
+C:\Users\Gaming\Desktop\BUSNİS\İndirimliÜrün\bin\Debug\net6.0-windows\İndirimliÜrün.pdb
+C:\Users\Gaming\Desktop\BUSNİS\İndirimliÜrün\obj\Debug\net6.0-windows\İndirimliÜrün.Form1.resources
+C:\Users\Gaming\Desktop\BUSNİS\İndirimliÜrün\obj\Debug\net6.0-windows\İndirimliÜrün.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\BUSNİS\İndirimliÜrün\obj\Debug\net6.0-windows\İndirimliÜrün.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\BUSNİS\İndirimliÜrün\obj\Debug\net6.0-windows\İndirimliÜrün.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\İndirimliÜrün\obj\Debug\net6.0-windows\İndirimliÜrün.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\BUSNİS\İndirimliÜrün\obj\Debug\net6.0-windows\İndirimliÜrün.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\İndirimliÜrün\obj\Debug\net6.0-windows\İndirimliÜrün.dll
+C:\Users\Gaming\Desktop\BUSNİS\İndirimliÜrün\obj\Debug\net6.0-windows\refint\İndirimliÜrün.dll
+C:\Users\Gaming\Desktop\BUSNİS\İndirimliÜrün\obj\Debug\net6.0-windows\İndirimliÜrün.pdb
+C:\Users\Gaming\Desktop\BUSNİS\İndirimliÜrün\obj\Debug\net6.0-windows\İndirimliÜrün.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\BUSNİS\İndirimliÜrün\obj\Debug\net6.0-windows\ref\İndirimliÜrün.dll

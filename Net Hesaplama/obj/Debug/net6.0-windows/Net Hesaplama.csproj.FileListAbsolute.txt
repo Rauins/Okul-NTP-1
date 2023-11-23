@@ -1,0 +1,16 @@
+C:\Users\Gaming\Desktop\BUSNİS\Net Hesaplama\bin\Debug\net6.0-windows\Net Hesaplama.exe
+C:\Users\Gaming\Desktop\BUSNİS\Net Hesaplama\bin\Debug\net6.0-windows\Net Hesaplama.deps.json
+C:\Users\Gaming\Desktop\BUSNİS\Net Hesaplama\bin\Debug\net6.0-windows\Net Hesaplama.runtimeconfig.json
+C:\Users\Gaming\Desktop\BUSNİS\Net Hesaplama\bin\Debug\net6.0-windows\Net Hesaplama.dll
+C:\Users\Gaming\Desktop\BUSNİS\Net Hesaplama\bin\Debug\net6.0-windows\Net Hesaplama.pdb
+C:\Users\Gaming\Desktop\BUSNİS\Net Hesaplama\obj\Debug\net6.0-windows\Net_Hesaplama.Form1.resources
+C:\Users\Gaming\Desktop\BUSNİS\Net Hesaplama\obj\Debug\net6.0-windows\Net Hesaplama.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\BUSNİS\Net Hesaplama\obj\Debug\net6.0-windows\Net Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\BUSNİS\Net Hesaplama\obj\Debug\net6.0-windows\Net Hesaplama.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\Net Hesaplama\obj\Debug\net6.0-windows\Net Hesaplama.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\BUSNİS\Net Hesaplama\obj\Debug\net6.0-windows\Net Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\Net Hesaplama\obj\Debug\net6.0-windows\Net Hesaplama.dll
+C:\Users\Gaming\Desktop\BUSNİS\Net Hesaplama\obj\Debug\net6.0-windows\refint\Net Hesaplama.dll
+C:\Users\Gaming\Desktop\BUSNİS\Net Hesaplama\obj\Debug\net6.0-windows\Net Hesaplama.pdb
+C:\Users\Gaming\Desktop\BUSNİS\Net Hesaplama\obj\Debug\net6.0-windows\Net Hesaplama.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\BUSNİS\Net Hesaplama\obj\Debug\net6.0-windows\ref\Net Hesaplama.dll
