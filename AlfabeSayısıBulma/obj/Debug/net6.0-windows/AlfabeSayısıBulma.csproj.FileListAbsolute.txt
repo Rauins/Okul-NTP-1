@@ -1,0 +1,16 @@
+C:\Users\Gaming\Desktop\BUSNİS\AlfabeSayısıBulma\bin\Debug\net6.0-windows\AlfabeSayısıBulma.exe
+C:\Users\Gaming\Desktop\BUSNİS\AlfabeSayısıBulma\bin\Debug\net6.0-windows\AlfabeSayısıBulma.deps.json
+C:\Users\Gaming\Desktop\BUSNİS\AlfabeSayısıBulma\bin\Debug\net6.0-windows\AlfabeSayısıBulma.runtimeconfig.json
+C:\Users\Gaming\Desktop\BUSNİS\AlfabeSayısıBulma\bin\Debug\net6.0-windows\AlfabeSayısıBulma.dll
+C:\Users\Gaming\Desktop\BUSNİS\AlfabeSayısıBulma\bin\Debug\net6.0-windows\AlfabeSayısıBulma.pdb
+C:\Users\Gaming\Desktop\BUSNİS\AlfabeSayısıBulma\obj\Debug\net6.0-windows\AlfabeSayısıBulma.Form1.resources
+C:\Users\Gaming\Desktop\BUSNİS\AlfabeSayısıBulma\obj\Debug\net6.0-windows\AlfabeSayısıBulma.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\BUSNİS\AlfabeSayısıBulma\obj\Debug\net6.0-windows\AlfabeSayısıBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\BUSNİS\AlfabeSayısıBulma\obj\Debug\net6.0-windows\AlfabeSayısıBulma.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\AlfabeSayısıBulma\obj\Debug\net6.0-windows\AlfabeSayısıBulma.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\BUSNİS\AlfabeSayısıBulma\obj\Debug\net6.0-windows\AlfabeSayısıBulma.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\AlfabeSayısıBulma\obj\Debug\net6.0-windows\AlfabeSayısıBulma.dll
+C:\Users\Gaming\Desktop\BUSNİS\AlfabeSayısıBulma\obj\Debug\net6.0-windows\refint\AlfabeSayısıBulma.dll
+C:\Users\Gaming\Desktop\BUSNİS\AlfabeSayısıBulma\obj\Debug\net6.0-windows\AlfabeSayısıBulma.pdb
+C:\Users\Gaming\Desktop\BUSNİS\AlfabeSayısıBulma\obj\Debug\net6.0-windows\AlfabeSayısıBulma.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\BUSNİS\AlfabeSayısıBulma\obj\Debug\net6.0-windows\ref\AlfabeSayısıBulma.dll

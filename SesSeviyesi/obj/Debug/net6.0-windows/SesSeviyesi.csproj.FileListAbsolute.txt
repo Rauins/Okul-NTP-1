@@ -1,0 +1,16 @@
+C:\Users\Gaming\Desktop\BUSNİS\SesSeviyesi\obj\Debug\net6.0-windows\SesSeviyesi.Form1.resources
+C:\Users\Gaming\Desktop\BUSNİS\SesSeviyesi\obj\Debug\net6.0-windows\SesSeviyesi.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\BUSNİS\SesSeviyesi\obj\Debug\net6.0-windows\SesSeviyesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\BUSNİS\SesSeviyesi\obj\Debug\net6.0-windows\SesSeviyesi.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\SesSeviyesi\obj\Debug\net6.0-windows\SesSeviyesi.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\BUSNİS\SesSeviyesi\obj\Debug\net6.0-windows\SesSeviyesi.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\SesSeviyesi\bin\Debug\net6.0-windows\SesSeviyesi.exe
+C:\Users\Gaming\Desktop\BUSNİS\SesSeviyesi\bin\Debug\net6.0-windows\SesSeviyesi.deps.json
+C:\Users\Gaming\Desktop\BUSNİS\SesSeviyesi\bin\Debug\net6.0-windows\SesSeviyesi.runtimeconfig.json
+C:\Users\Gaming\Desktop\BUSNİS\SesSeviyesi\bin\Debug\net6.0-windows\SesSeviyesi.dll
+C:\Users\Gaming\Desktop\BUSNİS\SesSeviyesi\bin\Debug\net6.0-windows\SesSeviyesi.pdb
+C:\Users\Gaming\Desktop\BUSNİS\SesSeviyesi\obj\Debug\net6.0-windows\SesSeviyesi.dll
+C:\Users\Gaming\Desktop\BUSNİS\SesSeviyesi\obj\Debug\net6.0-windows\refint\SesSeviyesi.dll
+C:\Users\Gaming\Desktop\BUSNİS\SesSeviyesi\obj\Debug\net6.0-windows\SesSeviyesi.pdb
+C:\Users\Gaming\Desktop\BUSNİS\SesSeviyesi\obj\Debug\net6.0-windows\SesSeviyesi.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\BUSNİS\SesSeviyesi\obj\Debug\net6.0-windows\ref\SesSeviyesi.dll
