@@ -1,0 +1,16 @@
+C:\Users\Gaming\Desktop\BUSNİS\AkıllıEv\bin\Debug\net6.0-windows\AkıllıEv.exe
+C:\Users\Gaming\Desktop\BUSNİS\AkıllıEv\bin\Debug\net6.0-windows\AkıllıEv.deps.json
+C:\Users\Gaming\Desktop\BUSNİS\AkıllıEv\bin\Debug\net6.0-windows\AkıllıEv.runtimeconfig.json
+C:\Users\Gaming\Desktop\BUSNİS\AkıllıEv\bin\Debug\net6.0-windows\AkıllıEv.dll
+C:\Users\Gaming\Desktop\BUSNİS\AkıllıEv\bin\Debug\net6.0-windows\AkıllıEv.pdb
+C:\Users\Gaming\Desktop\BUSNİS\AkıllıEv\obj\Debug\net6.0-windows\AkıllıEv.Form1.resources
+C:\Users\Gaming\Desktop\BUSNİS\AkıllıEv\obj\Debug\net6.0-windows\AkıllıEv.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\BUSNİS\AkıllıEv\obj\Debug\net6.0-windows\AkıllıEv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\BUSNİS\AkıllıEv\obj\Debug\net6.0-windows\AkıllıEv.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\AkıllıEv\obj\Debug\net6.0-windows\AkıllıEv.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\BUSNİS\AkıllıEv\obj\Debug\net6.0-windows\AkıllıEv.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\AkıllıEv\obj\Debug\net6.0-windows\AkıllıEv.dll
+C:\Users\Gaming\Desktop\BUSNİS\AkıllıEv\obj\Debug\net6.0-windows\refint\AkıllıEv.dll
+C:\Users\Gaming\Desktop\BUSNİS\AkıllıEv\obj\Debug\net6.0-windows\AkıllıEv.pdb
+C:\Users\Gaming\Desktop\BUSNİS\AkıllıEv\obj\Debug\net6.0-windows\AkıllıEv.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\BUSNİS\AkıllıEv\obj\Debug\net6.0-windows\ref\AkıllıEv.dll

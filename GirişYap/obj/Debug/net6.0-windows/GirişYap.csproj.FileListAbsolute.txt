@@ -1,0 +1,16 @@
+C:\Users\Gaming\Desktop\BUSNİS\GirişYap\bin\Debug\net6.0-windows\GirişYap.exe
+C:\Users\Gaming\Desktop\BUSNİS\GirişYap\bin\Debug\net6.0-windows\GirişYap.deps.json
+C:\Users\Gaming\Desktop\BUSNİS\GirişYap\bin\Debug\net6.0-windows\GirişYap.runtimeconfig.json
+C:\Users\Gaming\Desktop\BUSNİS\GirişYap\bin\Debug\net6.0-windows\GirişYap.dll
+C:\Users\Gaming\Desktop\BUSNİS\GirişYap\bin\Debug\net6.0-windows\GirişYap.pdb
+C:\Users\Gaming\Desktop\BUSNİS\GirişYap\obj\Debug\net6.0-windows\GirişYap.Form1.resources
+C:\Users\Gaming\Desktop\BUSNİS\GirişYap\obj\Debug\net6.0-windows\GirişYap.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\BUSNİS\GirişYap\obj\Debug\net6.0-windows\GirişYap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\BUSNİS\GirişYap\obj\Debug\net6.0-windows\GirişYap.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\GirişYap\obj\Debug\net6.0-windows\GirişYap.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\BUSNİS\GirişYap\obj\Debug\net6.0-windows\GirişYap.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\GirişYap\obj\Debug\net6.0-windows\GirişYap.dll
+C:\Users\Gaming\Desktop\BUSNİS\GirişYap\obj\Debug\net6.0-windows\refint\GirişYap.dll
+C:\Users\Gaming\Desktop\BUSNİS\GirişYap\obj\Debug\net6.0-windows\GirişYap.pdb
+C:\Users\Gaming\Desktop\BUSNİS\GirişYap\obj\Debug\net6.0-windows\GirişYap.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\BUSNİS\GirişYap\obj\Debug\net6.0-windows\ref\GirişYap.dll
