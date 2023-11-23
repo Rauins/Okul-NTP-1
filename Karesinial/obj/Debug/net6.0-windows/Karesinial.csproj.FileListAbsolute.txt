@@ -1,0 +1,16 @@
+C:\Users\Gaming\Desktop\BUSNİS\Karesinial\bin\Debug\net6.0-windows\Karesinial.exe
+C:\Users\Gaming\Desktop\BUSNİS\Karesinial\bin\Debug\net6.0-windows\Karesinial.deps.json
+C:\Users\Gaming\Desktop\BUSNİS\Karesinial\bin\Debug\net6.0-windows\Karesinial.runtimeconfig.json
+C:\Users\Gaming\Desktop\BUSNİS\Karesinial\bin\Debug\net6.0-windows\Karesinial.dll
+C:\Users\Gaming\Desktop\BUSNİS\Karesinial\bin\Debug\net6.0-windows\Karesinial.pdb
+C:\Users\Gaming\Desktop\BUSNİS\Karesinial\obj\Debug\net6.0-windows\Karesinial.Form1.resources
+C:\Users\Gaming\Desktop\BUSNİS\Karesinial\obj\Debug\net6.0-windows\Karesinial.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\BUSNİS\Karesinial\obj\Debug\net6.0-windows\Karesinial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\BUSNİS\Karesinial\obj\Debug\net6.0-windows\Karesinial.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\Karesinial\obj\Debug\net6.0-windows\Karesinial.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\BUSNİS\Karesinial\obj\Debug\net6.0-windows\Karesinial.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\Karesinial\obj\Debug\net6.0-windows\Karesinial.dll
+C:\Users\Gaming\Desktop\BUSNİS\Karesinial\obj\Debug\net6.0-windows\refint\Karesinial.dll
+C:\Users\Gaming\Desktop\BUSNİS\Karesinial\obj\Debug\net6.0-windows\Karesinial.pdb
+C:\Users\Gaming\Desktop\BUSNİS\Karesinial\obj\Debug\net6.0-windows\Karesinial.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\BUSNİS\Karesinial\obj\Debug\net6.0-windows\ref\Karesinial.dll

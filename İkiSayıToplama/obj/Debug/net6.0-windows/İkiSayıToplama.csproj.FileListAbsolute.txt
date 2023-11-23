@@ -1,0 +1,16 @@
+C:\Users\Gaming\Desktop\BUSNİS\İkiSayıToplama\bin\Debug\net6.0-windows\İkiSayıToplama.exe
+C:\Users\Gaming\Desktop\BUSNİS\İkiSayıToplama\bin\Debug\net6.0-windows\İkiSayıToplama.deps.json
+C:\Users\Gaming\Desktop\BUSNİS\İkiSayıToplama\bin\Debug\net6.0-windows\İkiSayıToplama.runtimeconfig.json
+C:\Users\Gaming\Desktop\BUSNİS\İkiSayıToplama\bin\Debug\net6.0-windows\İkiSayıToplama.dll
+C:\Users\Gaming\Desktop\BUSNİS\İkiSayıToplama\bin\Debug\net6.0-windows\İkiSayıToplama.pdb
+C:\Users\Gaming\Desktop\BUSNİS\İkiSayıToplama\obj\Debug\net6.0-windows\İkiSayıToplama.Form1.resources
+C:\Users\Gaming\Desktop\BUSNİS\İkiSayıToplama\obj\Debug\net6.0-windows\İkiSayıToplama.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\BUSNİS\İkiSayıToplama\obj\Debug\net6.0-windows\İkiSayıToplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\BUSNİS\İkiSayıToplama\obj\Debug\net6.0-windows\İkiSayıToplama.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\İkiSayıToplama\obj\Debug\net6.0-windows\İkiSayıToplama.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\BUSNİS\İkiSayıToplama\obj\Debug\net6.0-windows\İkiSayıToplama.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\İkiSayıToplama\obj\Debug\net6.0-windows\İkiSayıToplama.dll
+C:\Users\Gaming\Desktop\BUSNİS\İkiSayıToplama\obj\Debug\net6.0-windows\refint\İkiSayıToplama.dll
+C:\Users\Gaming\Desktop\BUSNİS\İkiSayıToplama\obj\Debug\net6.0-windows\İkiSayıToplama.pdb
+C:\Users\Gaming\Desktop\BUSNİS\İkiSayıToplama\obj\Debug\net6.0-windows\İkiSayıToplama.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\BUSNİS\İkiSayıToplama\obj\Debug\net6.0-windows\ref\İkiSayıToplama.dll
