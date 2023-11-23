@@ -1,0 +1,16 @@
+C:\Users\Gaming\Desktop\BUSNİS\TekÇift\bin\Debug\net6.0-windows\TekÇift.exe
+C:\Users\Gaming\Desktop\BUSNİS\TekÇift\bin\Debug\net6.0-windows\TekÇift.deps.json
+C:\Users\Gaming\Desktop\BUSNİS\TekÇift\bin\Debug\net6.0-windows\TekÇift.runtimeconfig.json
+C:\Users\Gaming\Desktop\BUSNİS\TekÇift\bin\Debug\net6.0-windows\TekÇift.dll
+C:\Users\Gaming\Desktop\BUSNİS\TekÇift\bin\Debug\net6.0-windows\TekÇift.pdb
+C:\Users\Gaming\Desktop\BUSNİS\TekÇift\obj\Debug\net6.0-windows\TekÇift.Form1.resources
+C:\Users\Gaming\Desktop\BUSNİS\TekÇift\obj\Debug\net6.0-windows\TekÇift.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\BUSNİS\TekÇift\obj\Debug\net6.0-windows\TekÇift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\BUSNİS\TekÇift\obj\Debug\net6.0-windows\TekÇift.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\TekÇift\obj\Debug\net6.0-windows\TekÇift.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\BUSNİS\TekÇift\obj\Debug\net6.0-windows\TekÇift.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\TekÇift\obj\Debug\net6.0-windows\TekÇift.dll
+C:\Users\Gaming\Desktop\BUSNİS\TekÇift\obj\Debug\net6.0-windows\refint\TekÇift.dll
+C:\Users\Gaming\Desktop\BUSNİS\TekÇift\obj\Debug\net6.0-windows\TekÇift.pdb
+C:\Users\Gaming\Desktop\BUSNİS\TekÇift\obj\Debug\net6.0-windows\TekÇift.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\BUSNİS\TekÇift\obj\Debug\net6.0-windows\ref\TekÇift.dll

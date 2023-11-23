@@ -1,0 +1,16 @@
+C:\Users\Gaming\Desktop\BUSNİS\Sayı Karşılaştırma\bin\Debug\net6.0-windows\Sayı Karşılaştırma.exe
+C:\Users\Gaming\Desktop\BUSNİS\Sayı Karşılaştırma\bin\Debug\net6.0-windows\Sayı Karşılaştırma.deps.json
+C:\Users\Gaming\Desktop\BUSNİS\Sayı Karşılaştırma\bin\Debug\net6.0-windows\Sayı Karşılaştırma.runtimeconfig.json
+C:\Users\Gaming\Desktop\BUSNİS\Sayı Karşılaştırma\bin\Debug\net6.0-windows\Sayı Karşılaştırma.dll
+C:\Users\Gaming\Desktop\BUSNİS\Sayı Karşılaştırma\bin\Debug\net6.0-windows\Sayı Karşılaştırma.pdb
+C:\Users\Gaming\Desktop\BUSNİS\Sayı Karşılaştırma\obj\Debug\net6.0-windows\Sayı_Karşılaştırma.Form1.resources
+C:\Users\Gaming\Desktop\BUSNİS\Sayı Karşılaştırma\obj\Debug\net6.0-windows\Sayı Karşılaştırma.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\BUSNİS\Sayı Karşılaştırma\obj\Debug\net6.0-windows\Sayı Karşılaştırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\BUSNİS\Sayı Karşılaştırma\obj\Debug\net6.0-windows\Sayı Karşılaştırma.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\Sayı Karşılaştırma\obj\Debug\net6.0-windows\Sayı Karşılaştırma.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\BUSNİS\Sayı Karşılaştırma\obj\Debug\net6.0-windows\Sayı Karşılaştırma.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\Sayı Karşılaştırma\obj\Debug\net6.0-windows\Sayı Karşılaştırma.dll
+C:\Users\Gaming\Desktop\BUSNİS\Sayı Karşılaştırma\obj\Debug\net6.0-windows\refint\Sayı Karşılaştırma.dll
+C:\Users\Gaming\Desktop\BUSNİS\Sayı Karşılaştırma\obj\Debug\net6.0-windows\Sayı Karşılaştırma.pdb
+C:\Users\Gaming\Desktop\BUSNİS\Sayı Karşılaştırma\obj\Debug\net6.0-windows\Sayı Karşılaştırma.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\BUSNİS\Sayı Karşılaştırma\obj\Debug\net6.0-windows\ref\Sayı Karşılaştırma.dll
