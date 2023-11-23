@@ -1,0 +1,16 @@
+C:\Users\Gaming\Desktop\BUSNİS\Vki\bin\Debug\net6.0-windows\Vki.exe
+C:\Users\Gaming\Desktop\BUSNİS\Vki\bin\Debug\net6.0-windows\Vki.deps.json
+C:\Users\Gaming\Desktop\BUSNİS\Vki\bin\Debug\net6.0-windows\Vki.runtimeconfig.json
+C:\Users\Gaming\Desktop\BUSNİS\Vki\bin\Debug\net6.0-windows\Vki.dll
+C:\Users\Gaming\Desktop\BUSNİS\Vki\bin\Debug\net6.0-windows\Vki.pdb
+C:\Users\Gaming\Desktop\BUSNİS\Vki\obj\Debug\net6.0-windows\Vki.Form1.resources
+C:\Users\Gaming\Desktop\BUSNİS\Vki\obj\Debug\net6.0-windows\Vki.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\BUSNİS\Vki\obj\Debug\net6.0-windows\Vki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\BUSNİS\Vki\obj\Debug\net6.0-windows\Vki.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\Vki\obj\Debug\net6.0-windows\Vki.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\BUSNİS\Vki\obj\Debug\net6.0-windows\Vki.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\Vki\obj\Debug\net6.0-windows\Vki.dll
+C:\Users\Gaming\Desktop\BUSNİS\Vki\obj\Debug\net6.0-windows\refint\Vki.dll
+C:\Users\Gaming\Desktop\BUSNİS\Vki\obj\Debug\net6.0-windows\Vki.pdb
+C:\Users\Gaming\Desktop\BUSNİS\Vki\obj\Debug\net6.0-windows\Vki.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\BUSNİS\Vki\obj\Debug\net6.0-windows\ref\Vki.dll
