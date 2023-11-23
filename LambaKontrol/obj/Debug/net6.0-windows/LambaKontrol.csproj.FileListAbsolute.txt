@@ -1,0 +1,16 @@
+C:\Users\Gaming\Desktop\BUSNİS\LambaKontrol\bin\Debug\net6.0-windows\LambaKontrol.exe
+C:\Users\Gaming\Desktop\BUSNİS\LambaKontrol\bin\Debug\net6.0-windows\LambaKontrol.deps.json
+C:\Users\Gaming\Desktop\BUSNİS\LambaKontrol\bin\Debug\net6.0-windows\LambaKontrol.runtimeconfig.json
+C:\Users\Gaming\Desktop\BUSNİS\LambaKontrol\bin\Debug\net6.0-windows\LambaKontrol.dll
+C:\Users\Gaming\Desktop\BUSNİS\LambaKontrol\bin\Debug\net6.0-windows\LambaKontrol.pdb
+C:\Users\Gaming\Desktop\BUSNİS\LambaKontrol\obj\Debug\net6.0-windows\LambaKontrol.Form1.resources
+C:\Users\Gaming\Desktop\BUSNİS\LambaKontrol\obj\Debug\net6.0-windows\LambaKontrol.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\BUSNİS\LambaKontrol\obj\Debug\net6.0-windows\LambaKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaming\Desktop\BUSNİS\LambaKontrol\obj\Debug\net6.0-windows\LambaKontrol.AssemblyInfoInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\LambaKontrol\obj\Debug\net6.0-windows\LambaKontrol.AssemblyInfo.cs
+C:\Users\Gaming\Desktop\BUSNİS\LambaKontrol\obj\Debug\net6.0-windows\LambaKontrol.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\BUSNİS\LambaKontrol\obj\Debug\net6.0-windows\LambaKontrol.dll
+C:\Users\Gaming\Desktop\BUSNİS\LambaKontrol\obj\Debug\net6.0-windows\refint\LambaKontrol.dll
+C:\Users\Gaming\Desktop\BUSNİS\LambaKontrol\obj\Debug\net6.0-windows\LambaKontrol.pdb
+C:\Users\Gaming\Desktop\BUSNİS\LambaKontrol\obj\Debug\net6.0-windows\LambaKontrol.genruntimeconfig.cache
+C:\Users\Gaming\Desktop\BUSNİS\LambaKontrol\obj\Debug\net6.0-windows\ref\LambaKontrol.dll
