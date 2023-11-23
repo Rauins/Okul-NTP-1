@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2015\Projects\SayınınFaktöriyeli\SayınınFaktöriyeli\bin\Debug\SayınınFaktöriyeli.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\SayınınFaktöriyeli\SayınınFaktöriyeli\bin\Debug\SayınınFaktöriyeli.exe
+c:\users\pc\documents\visual studio 2015\Projects\SayınınFaktöriyeli\SayınınFaktöriyeli\bin\Debug\SayınınFaktöriyeli.pdb
+c:\users\pc\documents\visual studio 2015\Projects\SayınınFaktöriyeli\SayınınFaktöriyeli\obj\Debug\SayınınFaktöriyeli.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\SayınınFaktöriyeli\SayınınFaktöriyeli\obj\Debug\SayınınFaktöriyeli.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\SayınınFaktöriyeli\SayınınFaktöriyeli\obj\Debug\SayınınFaktöriyeli.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\SayınınFaktöriyeli\SayınınFaktöriyeli\obj\Debug\SayınınFaktöriyeli.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\SayınınFaktöriyeli\SayınınFaktöriyeli\obj\Debug\SayınınFaktöriyeli.exe
+c:\users\pc\documents\visual studio 2015\Projects\SayınınFaktöriyeli\SayınınFaktöriyeli\obj\Debug\SayınınFaktöriyeli.pdb
